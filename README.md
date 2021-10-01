@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rarez1
 - 👀 I’m interested in QubesOS
-- 🌱 I’m currently learning .any and all code
+- 🌱 I’m currently learning any and all code
 - 💞️ I’m looking to collaborate on QubesOS
 
 - 📫 How to reach me PGP email.
